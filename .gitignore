@@ -33,3 +33,8 @@ constants.py
 #pyproject.toml
 uv.lock
 *.py
+*.crt
+*.csr
+*.key
+*.srl
+*.req
